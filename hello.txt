@@ -1,2 +1,2 @@
-first file
+Hello ubuntu
 status try

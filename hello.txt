@@ -1,2 +1,2 @@
-Hello ubuntu
+hello github
 status try
